@@ -52,3 +52,8 @@
   - [ ] Lesson 041 - Pure Recursion - 8min
 
 ## Notes
+
+- Part 1 Notes:
+  - O(1), O(log(n)), O(n), O(n \* log(n)), O(n^2)
+  - Time Complexity, Space Complexity
+- ## Part 2 Notes:
