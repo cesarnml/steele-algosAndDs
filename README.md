@@ -31,11 +31,11 @@
   - [x] ~~_Lesson 021 - Step 5: Look Back and Refactor - 17min_~~ [2023-11-22]
   - [x] ~~_Lesson 022 - Recap and Interview Strategies - 4min_~~ [2023-11-22]
 - [ ] Part 3: Problem Solving Patterns - 114min
-  - [ ] Lesson 023 - Intro to Problem Solving Patterns - 3min
-  - [ ] Lesson 024 - Frequency Counter Problem - 15min
-  - [ ] Lesson 025 - Frequency Counter & Anagram Challenge - 3min
-  - [ ] Lesson 026 - Anagram Challenge Solution - 6min
-  - [ ] Lesson 027 - Multiple Pointers Pattern - 10min
+  - [x] ~~_Lesson 023 - Intro to Problem Solving Patterns - 3min_~~ [2023-11-22]
+  - [x] ~~_Lesson 024 - Frequency Counter Problem - 15min_~~ [2023-11-22]
+  - [x] ~~_Lesson 025 - Frequency Counter & Anagram Challenge - 3min_~~ [2023-11-22]
+  - [x] ~~_Lesson 026 - Anagram Challenge Solution - 6min_~~ [2023-11-22]
+  - [x] ~~_Lesson 027 - Multiple Pointers Pattern - 10min_~~ [2023-11-22]
   - [ ] Lesson 028 - Multiple Pointers: Count Unique Values Challenger - 5min
   - [ ] Lesson 029 - Count Unique Value Challenge Solution - 7min
   - [ ] Lesson 030 - Sliding Window Pattern - 13min
@@ -72,3 +72,10 @@
     - 4. Examples with invalid inputs
   - Step 3: Break it down
     - 1. Explicitly write out the steps you need to take
+- Part 3 Notes:
+  - `Frequency Counter`
+    - the use of objects/sets to count the frequency of data occurring
+    - Usually results in O(n) efficiency gain over nested loop solutions O(n^2)
+  - `Multiple Pointers`
+    - keep track of a `position` or `index` and move progress pointer based on ending condition
+  -
