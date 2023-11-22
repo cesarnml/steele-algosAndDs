@@ -22,14 +22,14 @@
   - [x] ~~_Lesson 013 - The Big O of Objects - 6min_~~ [2023-11-22]
   - [x] ~~_Lesson 014 - When Are Arrays Slow - 6min_~~ [2023-11-22]
   - [x] ~~_Lesson 015 - Big O Array Methods - 6min_~~ [2023-11-22]
-- [ ] Part 2: Problem Solving Fundamentals - 61min
+- [x] ~~_Part 2: Problem Solving Fundamentals - 61min_~~ [2023-11-22]
   - [x] ~~_Lesson 016 - Introduction to Problem Solving - 7min_~~ [2023-11-22]
-  - [ ] Lesson 017 - Step 1: Understand the Problem - 8min
-  - [ ] Lesson 018 - Step 2: Concrete Problems - 6min
-  - [ ] Lesson 019 - Step 3: Break It Down - 8min
-  - [ ] Lesson 020 - Step 4: Solve Or Simplify - 11min
-  - [ ] Lesson 021 - Step 5: Look Back and Refactor - 17min
-  - [ ] Lesson 022 - Recap and Interview Strategies - 4min
+  - [x] ~~_Lesson 017 - Step 1: Understand the Problem - 8min_~~ [2023-11-22]
+  - [x] ~~_Lesson 018 - Step 2: Concrete Problems - 6min_~~ [2023-11-22]
+  - [x] ~~_Lesson 019 - Step 3: Break It Down - 8min_~~ [2023-11-22]
+  - [x] ~~_Lesson 020 - Step 4: Solve Or Simplify - 11min_~~ [2023-11-22]
+  - [x] ~~_Lesson 021 - Step 5: Look Back and Refactor - 17min_~~ [2023-11-22]
+  - [x] ~~_Lesson 022 - Recap and Interview Strategies - 4min_~~ [2023-11-22]
 - [ ] Part 3: Problem Solving Patterns - 114min
   - [ ] Lesson 023 - Intro to Problem Solving Patterns - 3min
   - [ ] Lesson 024 - Frequency Counter Problem - 15min
@@ -56,4 +56,19 @@
 - Part 1 Notes:
   - O(1), O(log(n)), O(n), O(n \* log(n)), O(n^2)
   - Time Complexity, Space Complexity
-- ## Part 2 Notes:
+- Part 2 Notes:
+  - An `algorithm` is a well-defined set of instructions to complete a task
+  - George Polya's `How To Solve It`
+  - Step 1: Understand the Problem
+    - 1. `Can I restate the problems in my own words`
+    - 2. `What are the inputs that go into the problem`
+    - 3. `What are the outputs of a solution`
+    - 4. `Can the outputs be derived from the inputs? (Is it solvable?)`
+    - 5. `What important parts of the problem be labeled?`
+  - Step 2: Exploring Concrete Examples
+    - 1. Start with simple examples
+    - 2. Progress to more complex examples
+    - 3. Examples with empty inputs
+    - 4. Examples with invalid inputs
+  - Step 3: Break it down
+    - 1. Explicitly write out the steps you need to take
