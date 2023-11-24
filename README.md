@@ -36,10 +36,10 @@
   - [x] ~~_Lesson 025 - Frequency Counter & Anagram Challenge - 3min_~~ [2023-11-22]
   - [x] ~~_Lesson 026 - Anagram Challenge Solution - 6min_~~ [2023-11-22]
   - [x] ~~_Lesson 027 - Multiple Pointers Pattern - 10min_~~ [2023-11-22]
-  - [ ] Lesson 028 - Multiple Pointers: Count Unique Values Challenger - 5min
-  - [ ] Lesson 029 - Count Unique Value Challenge Solution - 7min
-  - [ ] Lesson 030 - Sliding Window Pattern - 13min
-  - [ ] Lesson 031 - Divide And Conquer Pattern - 7min
+  - [x] ~~_Lesson 028 - Multiple Pointers: Count Unique Values Challenger - 5min_~~ [2023-11-24]
+  - [x] ~~_Lesson 029 - Count Unique Value Challenge Solution - 7min_~~ [2023-11-24]
+  - [x] ~~_Lesson 030 - Sliding Window Pattern - 13min_~~ [2023-11-24]
+  - [x] ~~_Lesson 031 - Divide And Conquer Pattern - 7min_~~ [2023-11-24]
   - [ ] Lesson 032 - Story Time: Martin & The Dragon - 7min
   - [ ] Lesson 033 - Why Use Recursion? - 6min
   - [ ] Lesson 034 - The Call Stack - 7min
@@ -77,4 +77,7 @@
     - the use of objects/sets to count the frequency of data occurring
     - Usually results in O(n) efficiency gain over nested loop solutions O(n^2)
   - `Multiple Pointers`
-    - keep track of a `position` or `index` and move progress pointer based on ending condition
+    - keep track of a `position` or `index` and then progress pointer toward ending condition
+  - `Sliding Window`
+    - Useful for keeping track of a subset of data in array or string
+    - Window grows or closes (and a new window is opened) based on some tracking condition
