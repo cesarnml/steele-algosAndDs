@@ -78,4 +78,3 @@
     - Usually results in O(n) efficiency gain over nested loop solutions O(n^2)
   - `Multiple Pointers`
     - keep track of a `position` or `index` and move progress pointer based on ending condition
-  -
