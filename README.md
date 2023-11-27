@@ -50,6 +50,24 @@
   - [ ] Lesson 039 - Common Recursion Pitfalls - 5min
   - [ ] Lesson 040 - Helper Method Recursion - 6min
   - [ ] Lesson 041 - Pure Recursion - 8min
+- [ ] Part 4: Search
+  - [ ] Lesson 042 - Intro to Searching
+  - [ ] Lesson 043 - Intro to Linear Search
+  - [ ] Lesson 044 - Linear Search Solution
+  - [ ] Lesson 045 - Linear Search Big O
+  - [ ] Lesson 046 - Intro to Binary Search
+  - [ ] Lesson 047 - Binary Search PseudoCode
+  - [ ] Lesson 048 - Binary Search Solution
+  - [ ] Lesson 049 - Binary Search Big O
+  - [ ] Lesson 050 - Naive String Search
+  - [ ] Lesson 051 - Naive String Search Implementation
+- [ ] Part 5: Sorting
+  - [ ] Lesson 052 - Introduction to Sorting Algorithms
+  - [ ] Lesson 053 - Built-in JavaScript Sorting
+  - [ ] Lesson 054 - Bubble Sort: Overview
+  - [ ] Lesson 055 - Bubble Sort: Implementation
+  - [ ] Lesson 056 - Bubble Sort: Optimization
+  - [ ] Lesson 057 - Bubble Sort: Big O Complexity
 
 ## Notes
 
