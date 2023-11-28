@@ -30,7 +30,7 @@
   - [x] ~~_Lesson 020 - Step 4: Solve Or Simplify - 11min_~~ [2023-11-22]
   - [x] ~~_Lesson 021 - Step 5: Look Back and Refactor - 17min_~~ [2023-11-22]
   - [x] ~~_Lesson 022 - Recap and Interview Strategies - 4min_~~ [2023-11-22]
-- [ ] Part 3: Problem Solving Patterns - 114min
+- [x] ~~_Part 3: Problem Solving Patterns - 114min_~~ [2023-11-27]
   - [x] ~~_Lesson 023 - Intro to Problem Solving Patterns - 3min_~~ [2023-11-22]
   - [x] ~~_Lesson 024 - Frequency Counter Problem - 15min_~~ [2023-11-22]
   - [x] ~~_Lesson 025 - Frequency Counter & Anagram Challenge - 3min_~~ [2023-11-22]
@@ -40,7 +40,8 @@
   - [x] ~~_Lesson 029 - Count Unique Value Challenge Solution - 7min_~~ [2023-11-24]
   - [x] ~~_Lesson 030 - Sliding Window Pattern - 13min_~~ [2023-11-24]
   - [x] ~~_Lesson 031 - Divide And Conquer Pattern - 7min_~~ [2023-11-24]
-  - [ ] Lesson 032 - Story Time: Martin & The Dragon - 7min
+  - [x] ~~_Lesson 032 - Story Time: Martin & The Dragon - 7min_~~ [2023-11-27]
+- [ ] Part 4: Recursion - 45min
   - [ ] Lesson 033 - Why Use Recursion? - 6min
   - [ ] Lesson 034 - The Call Stack - 7min
   - [ ] Lesson 035 - Our First Recursive Function - 5min
@@ -50,7 +51,7 @@
   - [ ] Lesson 039 - Common Recursion Pitfalls - 5min
   - [ ] Lesson 040 - Helper Method Recursion - 6min
   - [ ] Lesson 041 - Pure Recursion - 8min
-- [ ] Part 4: Search
+- [ ] Part 5: Search
   - [ ] Lesson 042 - Intro to Searching
   - [ ] Lesson 043 - Intro to Linear Search
   - [ ] Lesson 044 - Linear Search Solution
@@ -61,7 +62,7 @@
   - [ ] Lesson 049 - Binary Search Big O
   - [ ] Lesson 050 - Naive String Search
   - [ ] Lesson 051 - Naive String Search Implementation
-- [ ] Part 5: Sorting
+- [ ] Part 6: Sorting
   - [ ] Lesson 052 - Introduction to Sorting Algorithms
   - [ ] Lesson 053 - Built-in JavaScript Sorting
   - [ ] Lesson 054 - Bubble Sort: Overview
@@ -71,10 +72,10 @@
 
 ## Notes
 
-- Part 1 Notes:
+- Part 1: Big O Intro - Notes:
   - O(1), O(log(n)), O(n), O(n \* log(n)), O(n^2)
   - Time Complexity, Space Complexity
-- Part 2 Notes:
+- Part 2: Problem Solving Fundamentals - Notes:
   - An `algorithm` is a well-defined set of instructions to complete a task
   - George Polya's `How To Solve It`
   - Step 1: Understand the Problem
@@ -90,7 +91,7 @@
     - 4. Examples with invalid inputs
   - Step 3: Break it down
     - 1. Explicitly write out the steps you need to take
-- Part 3 Notes:
+- Part 3: Problem Solving Patterns - Notes:
   - `Frequency Counter`
     - the use of objects/sets to count the frequency of data occurring
     - Usually results in O(n) efficiency gain over nested loop solutions O(n^2)
@@ -99,3 +100,5 @@
   - `Sliding Window`
     - Useful for keeping track of a subset of data in array or string
     - Window grows or closes (and a new window is opened) based on some tracking condition
+- Part 4: Recursion - Notes:
+  - A function that calls itself.
